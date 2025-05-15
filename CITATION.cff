@@ -26,7 +26,8 @@ authors:
     email: patricia@we-are-ols.org
   - given-names: Toby
     family-names: Hodges
-    affiliation: The Carpentries/*
+    affiliation: The Carpentries
+    email: tobyhodges@carpentries.org
     orcid: 'https://orcid.org/0000-0003-1766-456X'
   - given-names: Marion
     family-names: Weinzierl

@@ -31,8 +31,8 @@ Dealing with disruptions can be slightly scary, but the other meeting participan
 However, if this is not successful, it might be necessary to be firmer in calling out the disruption. Address the disrupting person by name, and tell them what to do or stop doing. For example, "Tina, please refrain from using dismissive language when talking about your colleagues work."
 
 See also
-[Life Labs Learning: Meeting Course Correction](https://www.lifelabslearning.com/book/download/meeting-course-corrections)
-[NOAA: Dealing with distruptive behaviours](https://coast.noaa.gov/ddb/)
+- [Life Labs Learning: Meeting Course Correction](https://www.lifelabslearning.com/book/download/meeting-course-corrections)
+- [NOAA: Dealing with distruptive behaviours](https://coast.noaa.gov/ddb/)
 
 
 :::::: keypoints

@@ -52,7 +52,7 @@ See also
 #### Exercise
 
 - Discuss in small groups (or write down, if you're working solo): 
-  - what types of disruptions are these? See the NOAA resource for more different _types_ of disruptors and how to deal with them. 
+  - What types of disruptions are these? See the NOAA resource for more different _types_ of disruptors and how to deal with them. 
   - What might be a good way to handle this? 
   - Assign the roles of Gimli and Legolas to two team members. Have a chair role-play how to redirect and defuse this type of difficult behaviour. 
 

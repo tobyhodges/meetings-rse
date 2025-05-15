@@ -21,9 +21,25 @@ At the end of this episode, learners will be able to...
 
 ::::::::::::::::
 
+
 ## Introduction
 
 Everyone has been in a meeting that runs too long, is disorganised, has someone who talks too much, or has other pain points. Some of these challenges can be reduced by planning before the meeting but occasionally action will need to be taken directly during the meeting, e.g. interrupting the persistent talker, making people aware of the time left in the session, and implementing processes to reduce the likelihood of it happening again. 
+
+# Handling disruptive behaviour
+
+Dealing with disruptions can be slightly scary, but the other meeting participants rely on you, as the chair, to bring the meeting back on track. Most of the times this can be done in a gentle, non-confrontational manner. This can be done as a two-step intervention:
+
+- First, interrupt, if necessary, and state your observation of what is happening. E.g. "We are getting a bit of track here and are no longer talking about our objective."
+- Second, suggest a constructive way forward. E.g. "Let us refocus, the question we were discussing was... Who can suggest a solution here?"
+
+However, if this is not successful, it might be necessary to be firmer in calling out the disruption. Address the disrupting person by name, and tell them what to do or stop doing. For example, "Tina, please refrain from using dismissive language when talking about your colleagues work."
+
+See also
+- [Life Labs Learning: Meeting Course Correction](https://www.lifelabslearning.com/book/download/meeting-course-corrections)
+- [NOAA: Dealing with distruptive behaviours](https://coast.noaa.gov/ddb/)
+
+
 
 :::::: keypoints
 

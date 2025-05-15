@@ -67,7 +67,11 @@ contact: 'tobyhodges@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- agenda.md
+- meeting_roles.md
+- note_taking.md
 - facilitation.md
+- making_decisions.md
 
 # Information for Learners
 learners: 

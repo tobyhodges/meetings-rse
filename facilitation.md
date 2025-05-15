@@ -21,7 +21,6 @@ At the end of this episode, learners will be able to...
 
 ::::::::::::::::
 
-
 ## Introduction
 
 Everyone has been in a meeting that runs too long, is disorganised, has someone who talks too much, or has other pain points. Some of these challenges can be reduced by planning before the meeting but occasionally action will need to be taken directly during the meeting, e.g. interrupting the persistent talker, making people aware of the time left in the session, and implementing processes to reduce the likelihood of it happening again. 
@@ -38,6 +37,24 @@ However, if this is not successful, it might be necessary to be firmer in callin
 See also
 - [Life Labs Learning: Meeting Course Correction](https://www.lifelabslearning.com/book/download/meeting-course-corrections)
 - [NOAA: Dealing with distruptive behaviours](https://coast.noaa.gov/ddb/)
+
+
+### Exercise
+
+#### Setting
+
+> You've just gotten back from a project kick-off meeting yesterday. It ran too long, the agenda seemed aimless and no-one stuck to it, and Gimli rambled for far too long on tangential topics. 
+>
+> You're part of the RSE sub-team in the project, and you're determined that _your_ meetings will NOT be death-by-powerpoint and that Gimli will talk about as long as everyone else in the team, no longer.
+>
+> Now you're _in_ the team meeting. Gimli is talking about the project tracker you should be using, and he's spent fifteen minutes explaining how good the Mithril Project manager (tm) is. Legolas would like to use the Lembas project tacking method, and you can't quite seem to get a word in edgewise. 
+
+#### Exercise
+
+- Discuss in small groups (or write down, if you're working solo): 
+  - What types of disruptions are these? See the NOAA resource for more different _types_ of disruptors and how to deal with them. 
+  - What might be a good way to handle this? 
+  - Assign the roles of Gimli and Legolas to two team members. Have a chair role-play how to redirect and defuse this type of difficult behaviour. 
 
 
 

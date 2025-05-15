@@ -19,11 +19,13 @@ authors:
     affiliation: Software Sustainability Institute
   - orcid: 'https://orcid.org/0000-0002-4542-9906'
     affiliation: Patricia Herterich Consulting
+    affiliation: OLS
     family-names: Herterich
     given-names: Patricia
+    email: patricia@we-are-ols.org
   - given-names: Toby
     family-names: Hodges
-    affiliation: The Carpentries
+    affiliation: The Carpentries/*
     orcid: 'https://orcid.org/0000-0003-1766-456X'
   - given-names: Marion
     family-names: Weinzierl

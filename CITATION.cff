@@ -1,22 +1,57 @@
-# This template CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to replace its contents
-# with information about your lesson.
-# Remember to update this file periodically, 
-# ensuring that the author list and other fields remain accurate.
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: FIXME
+title: 'How to Run a Meeting, for dRTPs'
 message: >-
-  Please cite this lesson using the information in this file
-  when you refer to it in publications, and/or if you
-  re-use, adapt, or expand on the content in your own
-  training material.
-type: dataset
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Robert
+    family-names: Chisholm
+    affiliation: University of Sheffield
+    orcid: 'https://orcid.org/0000-0003-3379-9042'
+    email: robert.chisholm@sheffield.ac.uk
+  - given-names: Kathleen
+    family-names: Glass
+    orcid: 'https://orcid.org/0009-0009-8785-9603'
+    email: k.glass@epcc.ed.ac.uk
+    affiliation: Software Sustainability Institute
+  - orcid: 'https://orcid.org/0000-0002-4542-9906'
+    affiliation: Patricia Herterich Consulting
+    affiliation: OLS
+    family-names: Herterich
+    given-names: Patricia
+    email: patricia@we-are-ols.org
+  - given-names: Toby
+    family-names: Hodges
+    affiliation: The Carpentries
+    email: tobyhodges@carpentries.org
+    orcid: 'https://orcid.org/0000-0003-1766-456X'
+  - given-names: Marion
+    family-names: Weinzierl
+    orcid: 'https://orcid.org/0000-0002-2302-5476'
+    affiliation: University of Cambridge
+    email: mw925@cam.ac.uk
+  - given-names: Yo
+    family-names: Yehudi
+    orcid: 'https://orcid.org/0000-0003-2705-1724'
+    affiliation: OLS
+    email: yo@we-are-ols.org
+repository-code: 'https://github.com/tobyhodges/meetings-rse'
+url: 'https://tobyhodges.github.io/meetings-rse/'
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  A lesson for digital Research Technical Professionals who
+  participate in and/or lead meetings and frequently feel
+  frustrated when they do so. The lesson will teach them how
+  to prepare for meetings, how to facilitate an inclusive,
+  efficient, and relevant discussion during them, and how to
+  ensure that the important decisions and actions are
+  recorded and acted on afterwards.
+keywords:
+  - meetings
+  - collaboration
+  - training
+  - curriculum
 license: CC-BY-4.0

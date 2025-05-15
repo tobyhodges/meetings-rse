@@ -16,6 +16,7 @@ authors:
   - given-names: Kathleen
     family-names: Glass
     orcid: 'https://orcid.org/0009-0009-8785-9603'
+    email: k.glass@epcc.ed.ac.uk
     affiliation: Software Sustainability Institute
   - orcid: 'https://orcid.org/0000-0002-4542-9906'
     affiliation: Patricia Herterich Consulting

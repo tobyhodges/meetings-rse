@@ -37,9 +37,18 @@ However, if this is not successful, it might be necessary to be firmer in callin
 
 See also
 - [Life Labs Learning: Meeting Course Correction](https://www.lifelabslearning.com/book/download/meeting-course-corrections)
-- [NOAA: Dealing with distruptive behaviours](https://coast.noaa.gov/ddb/)
+- [NOAA: Dealing with disruptive behaviours](https://coast.noaa.gov/ddb/)
 
 
+### Exercise: What did we learn?
+
+Thinking about the exercise: What went well? What was hard? Interrupting when a meeting isn't "going right" isn't easy, but it doesn't have to be hard. Some points to remember: 
+
+- Address disruptions in two ways.
+  - At the time the disruption happens, make sure the behaviour is stopped.
+  - _After_ the meeting, make sure that you look at systemic ways to reduce that type of disruption as well - e.g. if you always run over time, consider assigning a standard "timekeeper" role to every meeting.
+- Practice can make it easier to interrupt, but **be aware of power dynamics**: it's one thing to stop a disagreement when you're chairing a meeting, but it might (or might not) be wise to interrupt someone who is in a much "higher" position in a hierarchy, if they aren't receptive to feedback.
+- If you _do_ have power or privilege (e.g. you're a chair, or you're a member of an in-group), make sure to use that power and privelege to support marginalised members. Sometimes it could be as simple as repeating what another person said and attributing it to the original speaker.
 
 :::::: keypoints
 

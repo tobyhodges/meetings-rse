@@ -171,40 +171,36 @@ For example, "Tina, please don't interrupt."
 For more actionable meeting facilitation strategies, we recommend checking out the Life Labs Learning two-page [Meeting Course-Correction Guide](https://www.lifelabslearning.com/book/download/meeting-course-corrections). 
 
 
-:::::::::::::::::::::::::::::::::::::: discussion
+:::::::::::::::::::::::::::::::::::::: challenge
 
-### Forming the Fellowship of the Ring
+### Catering Decisions (Take 1)
 
-#### Setting
-
-> You've just gotten back from a project kick-off meeting yesterday. It ran too long, the agenda seemed aimless and no-one stuck to it, and Gimli rambled for far too long on tangential topics. 
->
-> You're part of the RSE sub-team in the project, and you're determined that _your_ meetings will NOT be death-by-powerpoint and that Gimli will talk about as long as everyone else in the team, no longer.
->
-> Now you're _in_ the team meeting. Gimli is talking about the project tracker you should be using, and he's spent fifteen minutes explaining how good the Mithril Project manager (tm) is. Legolas would like to use the Lembas project tacking method, and you can't quite seem to get a word in edgewise. 
-
-#### Exercise
-
-- Discuss in small groups (or write down, if you're working solo): 
-  - What types of disruptions are these? See the NOAA resource for more different _types_ of disruptors and how to deal with them. 
-  - What might be a good way to handle this? 
-  - Assign the roles of Gimli and Legolas to two team members. Have a chair role-play how to redirect and defuse this type of difficult behaviour. 
+Pretend you are a participant at the short meeting segment recorded in this video.
+What disruptive behaviors do you notice?
+Does the facilitator make any attempts to address these disruptive behaviors? 
+If so, how?
+How do you feel at the end of this meeting?
 
 :::::::::::::: solution
 
-### What did we learn?
+Some disruptive behaviors that participants may notice are: 
 
-Thinking about the exercise: What went well? What was hard? Interrupting when a meeting isn't "going right" isn't easy, but it doesn't have to be hard. Some points to remember: 
+- Interrupting each other (a lot). 
+- One participant walking away from the desk without notice / answering a phone call during the meeting. 
+- No one raising hands. 
+- Being dismissive of others' concerns (around food allergy safety, vegetarian options). 
+- Eating on the call / talking with their mouth full. 
+- Not keeping microphone on mute when not speaking / coughing sounds.
+- General rudeness?
+- Trying to over-ride the group's decision after the meeting.
 
-- Address disruptions in two ways.
-  - At the time the disruption happens, make sure the behaviour is stopped.
-  - _After_ the meeting, make sure that you look at systemic ways to reduce that type of disruption as well - e.g. if you always run over time, consider assigning a standard "timekeeper" role to every meeting.
-- Practice can make it easier to interrupt, but **be aware of power dynamics**: it's one thing to stop a disagreement when you're chairing a meeting, but it might (or might not) be wise to interrupt someone who is in a much "higher" position in a hierarchy, if they aren't receptive to feedback.
-- If you _do_ have power or privilege (e.g. you're a chair, or you're a member of an in-group), make sure to use that power and privelege to support marginalised members. Sometimes it could be as simple as repeating what another person said and attributing it to the original speaker.
 
 ::::::::::::::
 
+
 ::::::::::::::::::::::::::::::::::::::
+
+
 
 :::::: keypoints
 
